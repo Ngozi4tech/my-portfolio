@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectItem from './Projectitem'
+import ProjectItem from './ProjectItem'
 import aiImg from '../assets/ai.png'
 import eventImg from '../assets/event.png'
 import geniusbuyImg from '../assets/geniusbuy.png'
